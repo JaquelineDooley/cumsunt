@@ -1,0 +1,32 @@
+{
+  "name": "cumsunt",
+  "version": "1.0.0",
+  "description": "Lagash winston logger wrapper.",
+  "main": "js/index.js",
+  "typings": "js/index",
+  "files": [
+    "js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaquelineDooley/cumsunt.git"
+  },
+  "keywords": [
+    "typescript",
+    "deleniti",
+    "vitae",
+    "facilis",
+    "qui",
+    "quas"
+  ],
+  "author": "AlexandreBoyle",
+  "license": "MIT",
+  "dependencies": {
+    "@types/winston": "0.0.27",
+    "lagash-config": "^0.1.0",
+    "winston": "^2.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/JaquelineDooley/cumsunt.git/issues"
+  }
+}
